@@ -380,7 +380,7 @@ def extra1():
 
 
 def main():
-    """ Call to main """
+ """ Main Function """
     print_welcome()
     main_program()
     extra()
@@ -389,3 +389,4 @@ def main():
 
 
 main()
+""" Call to Main """
